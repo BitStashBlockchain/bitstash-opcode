@@ -1,0 +1,53 @@
+{
+  "_args": [
+    [
+      "bitstash-opcodes@1.0.0",
+      "/root/qrypto"
+    ]
+  ],
+  "_from": "bitstash-opcodes@1.0.0",
+  "_id": "bitstash-opcodes@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-m3FreWxFK53dz2RpvFfJlb4HaCog0QSNVCbyVwhX/0xkZpjxTjJXpFKaWQV/Im0q5y2UlvhAlpITsihihyJSug==",
+  "_location": "/bitstash-opcodes",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "bitstash-opcodes@1.0.0",
+    "name": "bitstash-opcodes",
+    "escapedName": "bitstash-opcodes",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/bitstashjs-lib"
+  ],
+  "_resolved": "https://registry.npmjs.org/bitstash-opcodes/-/bitstash-opcodes-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/root/qrypto",
+  "author": {
+    "name": "Bitstash Weiyu"
+  },
+  "bugs": {
+    "url": "https://github.com/BitStashBlockchain/bitstash-opcodes-js/issues"
+  },
+  "description": "The BITSTASH opcodes map",
+  "homepage": "https://github.com/BitStashBlockchain/bitstash-opcodes-js#readme",
+  "keywords": [
+    "bitstash",
+    "opcodes"
+  ],
+  "license": "MIT",
+  "main": "./index.json",
+  "name": "bitstash-opcodes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitStashBlockchain/bitstash-opcodes-js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
